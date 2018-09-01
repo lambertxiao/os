@@ -6,10 +6,10 @@
 - [x] 操作系统的基本特性
 - [x] 操作系统的主要功能
 
-## 第二章 进程的描述与控制
+## 进程的描述与控制
 
 - [x] [进程的描述](https://github.com/oh-my-star/os-knowledge/blob/master/%E8%BF%9B%E7%A8%8B%E7%9A%84%E6%8F%8F%E8%BF%B0.md)
-- [ ] 进程控制
+- [x] [进程控制](https://github.com/oh-my-star/os-knowledge/blob/master/%E8%BF%9B%E7%A8%8B%E6%8E%A7%E5%88%B6.md)
 - [ ] 进程同步
 - [ ] 经典进程的同步问题
 - [ ] 进程通信
