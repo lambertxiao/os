@@ -19,7 +19,7 @@
 ## 处理机调度与死锁
 - [ ] 处理机调度的层次和调度算法的目标
 - [ ] 作业与作业调度
-- [ ] 进程调度
+- [ ] [进程调度](https://github.com/oh-my-star/os-knowledge/blob/master/%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95.md)
 - [ ] 实时调度
 - [x] [死锁概述](https://github.com/oh-my-star/os-knowledge/blob/master/%E4%BA%A7%E7%94%9F%E6%AD%BB%E9%94%81%E7%9A%84%E5%8E%9F%E5%9B%A0%E5%92%8C%E5%BF%85%E8%A6%81%E6%9D%A1%E4%BB%B6.md)
 - [ ] 预防死锁
