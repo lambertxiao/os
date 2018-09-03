@@ -31,7 +31,7 @@
 - [ ] 程序的装入和链接
 - [x] [连续分配存储管理方式](https://github.com/oh-my-star/os/blob/master/%E8%BF%9E%E7%BB%AD%E5%88%86%E9%85%8D%E5%AD%98%E5%82%A8%E7%AE%A1%E7%90%86%E6%96%B9%E5%BC%8F.md)
 - [ ] 对换(Swapping)
-- [ ] 分页存储管理方式
+- [x] [分页存储管理方式](https://github.com/oh-my-star/os/blob/master/%E8%BF%9E%E7%BB%AD%E5%88%86%E9%85%8D%E5%AD%98%E5%82%A8%E7%AE%A1%E7%90%86%E6%96%B9%E5%BC%8F.md)
 - [ ] 分段存储管理方式
 
 ## 虚拟存储器
